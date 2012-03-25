@@ -1,0 +1,5 @@
+E:\MyStuff\WebDev\Duralog\Duralog\bin\Duralog.dll
+E:\MyStuff\WebDev\Duralog\Duralog\bin\Duralog.pdb
+E:\MyStuff\WebDev\Duralog\Duralog\obj\Debug\ResolveAssemblyReference.cache
+E:\MyStuff\WebDev\Duralog\Duralog\obj\Debug\Duralog.dll
+E:\MyStuff\WebDev\Duralog\Duralog\obj\Debug\Duralog.pdb
